@@ -1,2 +1,5 @@
-👋 Hey! I'm Tilina, a data scientist and a masters student at Carnegie Mellon University. 
-Check out my Github for hands-on projects in machine learning!
+## 👋 Hey! 
+
+👋 Hi, I'm Tilina, a data scientist and master's student at Carnegie Mellon University. 
+
+Explore my Github for hands-on machine learning projects! 🚀
