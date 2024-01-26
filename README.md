@@ -1,4 +1,4 @@
-## 👋 Hey, there! 
+## 👋 Hey! 
 
 I'm Tilina, a data scientist and master's student at Carnegie Mellon University. 
 
